@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "ed3ee235-43e3-41ca-b515-fb82e0228439": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8945e126-0cba-4f85-b109-9fb231ed729b"
+        }
+    },
+    "manufacturer": "Coilcraft",
+    "name": "DA2304",
+    "prefix": "T",
+    "tags": [
+        "magnetics",
+        "passive",
+        "transformer"
+    ],
+    "type": "entity",
+    "uuid": "500154a7-cb25-40b8-87f2-2de980c0d2f2"
+}

@@ -1,0 +1,101 @@
+{
+    "MPN": [
+        false,
+        "USB4105-GF-A"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB-C Connector for USB 2.0"
+    ],
+    "entity": "b3c7f10f-2160-4b68-a38b-10bf0263c097",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "GCT"
+    ],
+    "model": "a5774fa6-a0d0-4201-bc0a-7767953b5ce0",
+    "package": "90e5b51f-49a4-4c42-b2fb-e9cf3c419b63",
+    "pad_map": {
+        "0a5b83fe-fa58-4b38-8398-ae88b471a9b6": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "2454c173-008a-40c9-b1d5-5f288162db8c": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "26fcd058-9d20-4143-b168-363539f8c21c": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "2d55664b-05d9-4b0d-a4f0-7887ef7fe84b": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "63d5899e-90d1-447c-9eaa-1eaf276e807c"
+        },
+        "2ff81d8e-4d48-4c74-beb3-e923e2450b48": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "d9e315ef-20c5-40e4-98ab-e604063682b5"
+        },
+        "3f0d2cba-3e4d-41f6-804f-9534d38eae2c": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "f075d86c-b10a-412a-b49d-714cc3efcce7"
+        },
+        "6082fe1e-2b18-4453-9566-0ccc2f137de0": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "80380002-7672-4415-885e-8fff58c6681d": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "8adefde6-f9b7-4fed-91ee-55089829bb93"
+        },
+        "813e6f2b-624d-4e51-b12f-4d64618aca35": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        },
+        "8bbb9e88-ffea-4902-9134-36b22d4fc563": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "9d2d1012-c855-434f-9933-b47251caf8da": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "aa1bc904-6cb0-40c8-a2b0-e4cb873dc4c1": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "bc70729a-cceb-48da-96a1-ce2fbccda218": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "e57b4ffc-e6ba-4997-8511-22db9e23ee50": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "f8084f7b-50e1-4378-95dc-bf2d58976f76": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        },
+        "fb5ce7bd-31c6-4eb4-8ff2-4ec7443f5361": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "4f3520e1-7e48-4364-b39e-acff604febbb",
+    "value": [
+        false,
+        ""
+    ]
+}

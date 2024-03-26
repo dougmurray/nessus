@@ -1,0 +1,75 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "LT3094",
+    "pins": {
+        "052fb89e-481e-42e4-920f-fda045036037": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "1f50c70e-e9fb-45a7-847a-ebfa3070e055": {
+            "alt_names": {
+                "fae51913-a773-44df-a67e-9c24a1dc0744": {
+                    "direction": "bidirectional",
+                    "name": "UV"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "29312d5f-7893-4977-a113-cfd13d5d2286": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "402c54f0-11ba-4acc-b69a-9c460cbf95e1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SET",
+            "swap_group": 0
+        },
+        "45380ece-32d0-4acf-bb4b-feee3e02c508": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "4573e18f-d29b-403f-a607-fc57a60fe13d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OUTS",
+            "swap_group": 0
+        },
+        "858a8475-a28c-459c-b09e-fcff6c2aae22": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PG",
+            "swap_group": 0
+        },
+        "b5b2cbf1-d0ba-47da-9a09-ad25b978117a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VIOC",
+            "swap_group": 0
+        },
+        "f20c5622-2182-4d07-a123-5dc7c65741e2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PGFB",
+            "swap_group": 0
+        },
+        "f92c98de-cd49-496d-9b21-0f4019d61cfe": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ILIM",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3ffe233c-c702-4f85-a875-7a7bf52bf11c",
+    "version": 1
+}

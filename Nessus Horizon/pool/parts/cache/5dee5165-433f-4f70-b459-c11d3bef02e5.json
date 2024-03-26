@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "SN6505BQDBVTQ1"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn6505b-q1"
+    ],
+    "description": [
+        false,
+        "SN6505x-Q1 Low Noise 1 A Transformer Drivers for Isolated Power Supplies"
+    ],
+    "entity": "72838bf9-2625-47ba-a221-6dc57593a236",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "1635f583-8319-4799-89d6-50426d4643d0",
+    "package": "d037889a-d649-471b-9164-8c0306c63d52",
+    "pad_map": {
+        "2ff92948-c533-469e-b24d-daceab001a86": {
+            "gate": "fb6b95be-55c1-453a-9f17-9fad31e3288b",
+            "pin": "5aed289b-fafc-43c6-9317-8ab7b664e7ba"
+        },
+        "4d89fdb6-b9cc-4709-8c4a-8e87c5fa5d52": {
+            "gate": "fb6b95be-55c1-453a-9f17-9fad31e3288b",
+            "pin": "03db1d0e-2b4f-4e53-9e47-6966b921d1d2"
+        },
+        "54294f42-7320-44f0-be79-c6744fa4b061": {
+            "gate": "fb6b95be-55c1-453a-9f17-9fad31e3288b",
+            "pin": "ac63d34e-ef35-4aa8-a431-7f4f27ba6d16"
+        },
+        "545e8f5d-f591-4852-9b20-084f4ac6c7a7": {
+            "gate": "fb6b95be-55c1-453a-9f17-9fad31e3288b",
+            "pin": "d276ebad-c570-4148-a325-6dbf6e866bc8"
+        },
+        "5a88ae09-0962-4cbe-9225-d34198c1e013": {
+            "gate": "fb6b95be-55c1-453a-9f17-9fad31e3288b",
+            "pin": "96ab2401-8d65-457f-ae34-3a3821991dbf"
+        },
+        "8dda90c1-2cb9-4889-8b26-795e19694c4d": {
+            "gate": "fb6b95be-55c1-453a-9f17-9fad31e3288b",
+            "pin": "325fdbb9-2ea0-463b-9852-bc76f5c9eb63"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "5dee5165-433f-4f70-b459-c11d3bef02e5",
+    "value": [
+        false,
+        "SN6505BQ"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "MPN": [
+        false,
+        "C1608X5R1C106M080AB"
+    ],
+    "base": "d61359b3-783c-4c2f-bbc8-9e73267b094b",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "override_prefix": "inherit",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "1e-05",
+        "wvdc": "16"
+    },
+    "prefix": "",
+    "tags": [
+        "cap",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "b0ce7cd8-87da-40e7-b44f-ed0d0fc02b68",
+    "value": [
+        false,
+        "10 µF"
+    ],
+    "version": 2
+}

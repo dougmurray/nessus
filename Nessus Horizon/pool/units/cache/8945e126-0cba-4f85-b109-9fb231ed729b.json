@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Coilcraft",
+    "name": "Dual Transformer",
+    "pins": {
+        "02440ca4-50da-405f-b0a9-b10ad5e25675": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P-2",
+            "swap_group": 0
+        },
+        "0485eefe-8a62-463e-9961-dd0b2f20f2b0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S+1",
+            "swap_group": 0
+        },
+        "29b652d6-2378-4817-8a06-bf1644bd9b17": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S-1",
+            "swap_group": 0
+        },
+        "3ada11bb-1447-40b6-b7a1-cb6fe39ed5f6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P+1",
+            "swap_group": 0
+        },
+        "862308cc-ef89-4ffd-8c36-b5f26799145c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S-2",
+            "swap_group": 0
+        },
+        "b76de86a-2a7c-4feb-b550-8a286e98f213": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S+2",
+            "swap_group": 0
+        },
+        "c4d58f30-7374-48c5-a001-167bd5e12f8b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P+2",
+            "swap_group": 0
+        },
+        "eb88f40c-6e8d-4865-a11d-a82a605c3c46": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P-1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8945e126-0cba-4f85-b109-9fb231ed729b"
+}

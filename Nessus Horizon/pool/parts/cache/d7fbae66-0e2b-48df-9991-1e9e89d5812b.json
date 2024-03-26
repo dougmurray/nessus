@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "CGA3E3X7S2A104K080AE"
+    ],
+    "datasheet": [
+        false,
+        "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer ceramic chip capacitor"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TDK"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "0c6f5ea3-c601-4b00-b985-6db23ce77246",
+    "pad_map": {
+        "5eb3d31f-6cc4-43f5-a1e0-6ff6d5834e89": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "dbd0c5ca-3d47-4dc1-9012-bed19d601c53": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7S",
+        "value": "1e-07",
+        "wvdc": "100"
+    },
+    "tags": [
+        "cap",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "d7fbae66-0e2b-48df-9991-1e9e89d5812b",
+    "value": [
+        false,
+        "100 nF"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "DA2304-ALD"
+    ],
+    "datasheet": [
+        false,
+        "https://www.coilcraft.com/getmedia/8faba866-5f2d-4cdc-8b4e-33b8f8cedbfa/da2303.pdf"
+    ],
+    "description": [
+        false,
+        "SMT Power Transformer"
+    ],
+    "entity": "500154a7-cb25-40b8-87f2-2de980c0d2f2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Coilcraft"
+    ],
+    "model": "801b3191-534f-48df-9886-ff2f399d16da",
+    "orderable_MPNs": {
+        "0b042f76-a3fa-40d6-95e9-3d4db367bc7b": "DA2304-ALB"
+    },
+    "package": "c31fcf41-bfcd-4651-b42c-c6cfaa18ee70",
+    "pad_map": {
+        "14d30b5f-4625-4fee-83af-f8596f4f544b": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "02440ca4-50da-405f-b0a9-b10ad5e25675"
+        },
+        "36432404-1c3f-4e5b-a651-6646d7b7f075": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "eb88f40c-6e8d-4865-a11d-a82a605c3c46"
+        },
+        "5ae8f20d-b446-4e23-9d7f-2d65aa8a12d5": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "29b652d6-2378-4817-8a06-bf1644bd9b17"
+        },
+        "8a5ff383-a685-490a-98c2-179e329c73ac": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "c4d58f30-7374-48c5-a001-167bd5e12f8b"
+        },
+        "9785c962-63e6-4f2e-9674-cd6cfd9dd3c8": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "862308cc-ef89-4ffd-8c36-b5f26799145c"
+        },
+        "aa2727dd-fbbb-46d1-8b86-490d09d6020c": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "3ada11bb-1447-40b6-b7a1-cb6fe39ed5f6"
+        },
+        "c5c8da5d-6203-4acf-b6ee-9c0da1a4c946": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "b76de86a-2a7c-4feb-b550-8a286e98f213"
+        },
+        "ccfe2fb2-88e7-4384-97ee-6a6fae7ab0e9": {
+            "gate": "ed3ee235-43e3-41ca-b515-fb82e0228439",
+            "pin": "0485eefe-8a62-463e-9961-dd0b2f20f2b0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "magnetics",
+        "passive",
+        "transformer"
+    ],
+    "type": "part",
+    "uuid": "a696f10b-5de1-4a2a-ad71-f4f71e4907e3",
+    "value": [
+        false,
+        ""
+    ]
+}

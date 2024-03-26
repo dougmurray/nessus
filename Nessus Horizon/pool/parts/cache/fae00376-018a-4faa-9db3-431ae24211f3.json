@@ -1,0 +1,75 @@
+{
+    "MPN": [
+        false,
+        "LM73100RPWR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/lm7310.pdf?ts=1657021176035&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM7310"
+    ],
+    "description": [
+        false,
+        "LM73100 2.7 - 23 V 5.5 A Integrated Ideal Diode with Input Reverse Polarity and Overvoltage Protection"
+    ],
+    "entity": "2660e98c-023f-4cb9-8ad9-cbc0b7736004",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "4bbd0161-0923-46d3-8965-02636466cb88",
+    "orderable_MPNs": {
+        "e712e493-9f87-4317-93a7-fa6ade6ca9d7": "LM73100RPWR"
+    },
+    "package": "a3210c1f-2722-4a0a-8eb7-8cdab1495279",
+    "pad_map": {
+        "38033c42-6ba8-4310-983d-8a6108bab4b9": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "0cd5be0c-e6fd-455f-bcac-7c89c794e661"
+        },
+        "3ceb3db6-e737-454c-b02a-6915bcd9a51e": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "27fbaafe-d2ec-4f33-b0b2-eb9f94e96722"
+        },
+        "7299672b-f5bd-49d1-adcc-93f5c99c4ab9": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "5f956318-afdd-4329-9b0b-686ee6334b1f"
+        },
+        "76322ded-8cdf-435e-9823-b411aa716a90": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "a9f0f7ee-7df7-4a57-afa8-b7392edee909"
+        },
+        "7eb876a5-21cc-4b15-a841-6aeb8a463cef": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "da6aa854-87c2-4801-9d5a-211913634f79"
+        },
+        "7f95765c-07fe-4745-94bd-d63d980d18d3": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "9be60a19-9745-4047-ae3a-390ebff0606b"
+        },
+        "b0d834d2-f2fe-4ba8-ae89-509b22f31aa9": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "91021ebc-1199-4c94-9c77-73cd6c53bcd7"
+        },
+        "c496a91d-5b7c-4005-afda-eb85daabe34c": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "0a9286b8-5d62-41d0-bf47-ee06647226a8"
+        },
+        "c6d3ef4a-9a1b-4921-b291-3d742efe0cc1": {
+            "gate": "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9",
+            "pin": "afb1598a-264e-46a0-aaf9-27c77a982d8f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "ideal-diode"
+    ],
+    "type": "part",
+    "uuid": "fae00376-018a-4faa-9db3-431ae24211f3",
+    "value": [
+        false,
+        ""
+    ]
+}

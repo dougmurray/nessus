@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "SN6505",
+    "pins": {
+        "03db1d0e-2b4f-4e53-9e47-6966b921d1d2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "325fdbb9-2ea0-463b-9852-bc76f5c9eb63": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "5aed289b-fafc-43c6-9317-8ab7b664e7ba": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "96ab2401-8d65-457f-ae34-3a3821991dbf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "D1",
+            "swap_group": 0
+        },
+        "ac63d34e-ef35-4aa8-a431-7f4f27ba6d16": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "d276ebad-c570-4148-a325-6dbf6e866bc8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "62f6e43c-f4d8-4255-a15b-8d1b16428731"
+}

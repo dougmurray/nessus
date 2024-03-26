@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "cdd8a430-8f19-4f81-b52c-ecc96ce18fb9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3f623dbd-368a-47f9-9c7a-ba8c37cca1c3"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "LM73100",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "ideal-diode"
+    ],
+    "type": "entity",
+    "uuid": "2660e98c-023f-4cb9-8ad9-cbc0b7736004"
+}

@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Single Terminal",
+    "pins": {
+        "6b5d455c-4730-439f-a90d-81de63ede669": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f7b0cd43-312c-4bf3-8bee-8ceabc631ed5"
+}

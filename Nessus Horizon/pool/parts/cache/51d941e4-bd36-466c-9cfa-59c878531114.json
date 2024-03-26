@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "SMAJ5.0A"
+    ],
+    "base": "5c43e0b3-4af4-4831-92f8-8972f1e9fe63",
+    "datasheet": [
+        true,
+        "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"
+    ],
+    "description": [
+        true,
+        "400 W TVS Diode Surface Mount DO-214AC (SMA)"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Littlefuse"
+    ],
+    "model": "9191c081-b934-4c52-be70-c15d3f276956",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "51d941e4-bd36-466c-9cfa-59c878531114",
+    "value": [
+        false,
+        "5 V"
+    ]
+}

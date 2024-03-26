@@ -1,0 +1,69 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "LT3042",
+    "pins": {
+        "1b5cb0bf-097c-4a85-85f3-d71425579041": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "2d59f0ab-25f5-4b39-b25b-a1f8600a114d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "3f0af092-391d-47e5-bd3a-b884dfa16cdc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "52498cd7-409d-4060-b917-1e0d2b5893c4": {
+            "alt_names": {
+                "d866db50-3afe-475f-8bef-928a2cee63c9": {
+                    "direction": "bidirectional",
+                    "name": "UV"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "6716a6f7-2d10-485c-b0ea-910013a7e5f9": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PG",
+            "swap_group": 0
+        },
+        "83d3ebe5-210d-47da-8ade-8a07626247a9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ILIM",
+            "swap_group": 0
+        },
+        "dc9322bd-a925-4045-88c4-437ffa40ba2d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SET",
+            "swap_group": 0
+        },
+        "e3881909-4c98-4356-a091-01a4032a2e8d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OUTS",
+            "swap_group": 0
+        },
+        "fc4aab28-4852-45e9-8bbe-599dd802b6b5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "PGFB",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "dc531701-cc64-4bc8-a55f-6f987b3948b4",
+    "version": 1
+}

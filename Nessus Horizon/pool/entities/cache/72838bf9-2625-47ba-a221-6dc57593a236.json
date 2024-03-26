@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "fb6b95be-55c1-453a-9f17-9fad31e3288b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "62f6e43c-f4d8-4255-a15b-8d1b16428731"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "SN6505",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "72838bf9-2625-47ba-a221-6dc57593a236"
+}

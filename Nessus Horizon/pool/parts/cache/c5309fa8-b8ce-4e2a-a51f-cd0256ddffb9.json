@@ -1,0 +1,89 @@
+{
+    "MPN": [
+        false,
+        "LT3045IMSE#PBF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3045.pdf"
+    ],
+    "description": [
+        false,
+        "20 V 500 mA Ultralow Noise Ultrahigh PSRR Linear Regulator"
+    ],
+    "entity": "604547a0-8d57-49e9-abc3-f1e4db086190",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "bc38edca-e7f0-4acc-add3-24838ee4bdbe",
+    "package": "5098d884-66e8-445d-97e0-a9cb84fc7dc6",
+    "pad_map": {
+        "1d926fe3-00b2-4e3e-b218-31aafa5f4a05": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "52498cd7-409d-4060-b917-1e0d2b5893c4"
+        },
+        "2935c942-6921-4d6a-8d94-b1357686a077": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "2d59f0ab-25f5-4b39-b25b-a1f8600a114d"
+        },
+        "2ca72f38-9b87-4597-b2be-ddda07223642": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "3f0af092-391d-47e5-bd3a-b884dfa16cdc"
+        },
+        "319e02b2-e6d3-4153-ad91-ce4e5d5a8993": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "3f0af092-391d-47e5-bd3a-b884dfa16cdc"
+        },
+        "3929d8f4-7c99-43b1-9f4a-41259239c6b3": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "6716a6f7-2d10-485c-b0ea-910013a7e5f9"
+        },
+        "3ba5b3d3-455e-4c12-b21f-eb87359f3c35": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "dc9322bd-a925-4045-88c4-437ffa40ba2d"
+        },
+        "64bf57ae-c18b-40bf-a10a-ca397fe06d69": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "1b5cb0bf-097c-4a85-85f3-d71425579041"
+        },
+        "833c47b9-3564-4daa-b9f9-973dea034b7c": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "1b5cb0bf-097c-4a85-85f3-d71425579041"
+        },
+        "a0fc0b3c-7e94-4a4a-97cc-8f3134705871": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "e3881909-4c98-4356-a091-01a4032a2e8d"
+        },
+        "bb18a68d-80d2-4d79-8faa-ac3fba8c97b0": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "3f0af092-391d-47e5-bd3a-b884dfa16cdc"
+        },
+        "e55c87ea-ff85-43c8-b544-018dbdd25bad": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "fc4aab28-4852-45e9-8bbe-599dd802b6b5"
+        },
+        "e74a175b-afe9-47fc-aeb5-19f832f9c5f5": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "83d3ebe5-210d-47da-8ade-8a07626247a9"
+        },
+        "f2fd5440-aa0d-457e-8736-d1d6135cc380": {
+            "gate": "1dbc2dd3-2ba9-4fd9-ae26-7afcb5bf634e",
+            "pin": "2d59f0ab-25f5-4b39-b25b-a1f8600a114d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "ldo",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "c5309fa8-b8ce-4e2a-a51f-cd0256ddffb9",
+    "value": [
+        false,
+        "LT3045"
+    ]
+}

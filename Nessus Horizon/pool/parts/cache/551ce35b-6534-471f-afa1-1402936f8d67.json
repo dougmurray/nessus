@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "Screw Mount M3"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1.4mm Hole, plated"
+    ],
+    "entity": "ad205298-08a8-496b-b149-5d95e5a1c2bb",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "set",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "McMaster"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "37ffcbb8-94e3-4069-90a0-003a4684da57": "90362A113"
+    },
+    "package": "e0ed4946-2586-4875-85d7-3b281c25466c",
+    "pad_map": {
+        "9481d23c-5cd0-4434-810c-f1ccceda9dd6": {
+            "gate": "4a4926d0-5684-4501-add4-fc20f8c13058",
+            "pin": "6b5d455c-4730-439f-a90d-81de63ede669"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "screw"
+    ],
+    "type": "part",
+    "uuid": "551ce35b-6534-471f-afa1-1402936f8d67",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

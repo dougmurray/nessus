@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "4a4926d0-5684-4501-add4-fc20f8c13058": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f7b0cd43-312c-4bf3-8bee-8ceabc631ed5"
+        }
+    },
+    "manufacturer": "",
+    "name": "Single Terminal",
+    "prefix": "J",
+    "tags": [
+        "terminal"
+    ],
+    "type": "entity",
+    "uuid": "ad205298-08a8-496b-b149-5d95e5a1c2bb"
+}
