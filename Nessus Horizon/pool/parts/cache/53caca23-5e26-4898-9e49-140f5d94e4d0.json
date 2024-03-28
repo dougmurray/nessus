@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "MMBF4416A"
+    ],
+    "datasheet": [
+        false,
+        "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1153/MMBF4416A.pdf"
+    ],
+    "description": [
+        false,
+        "MMBF4416A N-Channel RF Amplifier"
+    ],
+    "entity": "731c1427-d36c-4add-b495-46a4598b3e97",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Fairchild"
+    ],
+    "model": "23591eda-271c-4318-9faa-c6675d1c65a8",
+    "package": "331d6c23-b64d-4958-8a9c-94da3c4a92a5",
+    "pad_map": {
+        "4d6fc3e1-37a2-4d9f-b0ab-5098f543ca71": {
+            "gate": "287256a1-945d-4e6b-9658-6971e3f58b2e",
+            "pin": "2fce41b5-aa6d-44af-906b-d300268e20fd"
+        },
+        "89166a7d-1367-49d3-a5cd-b511d4bb4756": {
+            "gate": "287256a1-945d-4e6b-9658-6971e3f58b2e",
+            "pin": "ae505447-cb23-43d7-88d4-a6d74253de7e"
+        },
+        "eb972ac1-ae65-4676-acba-ee74bd584aca": {
+            "gate": "287256a1-945d-4e6b-9658-6971e3f58b2e",
+            "pin": "1c2e3534-7278-4ab6-acf5-f87cb4e8f4b2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "jfet",
+        "n-channel"
+    ],
+    "type": "part",
+    "uuid": "53caca23-5e26-4898-9e49-140f5d94e4d0",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Potentiometer (Copy)",
+    "pins": {
+        "1eaa7e7f-b9b6-4538-b736-3732435e3a71": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "2ef079b9-8122-4cdc-badd-d141e58f56d0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "W",
+            "swap_group": 0
+        },
+        "bf8a882a-173d-4077-9201-6bb24a454768": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4c91969f-a59c-4c5b-830f-50b849dae786"
+}

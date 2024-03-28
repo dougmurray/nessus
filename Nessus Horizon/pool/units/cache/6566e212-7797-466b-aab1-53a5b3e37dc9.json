@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "simple switch (Copy)",
+    "pins": {
+        "3df2bc26-ee22-4f27-8ca9-403a9568c49d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1A",
+            "swap_group": 0
+        },
+        "b3567d95-bff9-4473-ba25-2ba73c2dc90c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6566e212-7797-466b-aab1-53a5b3e37dc9"
+}

@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM32Ex"
+    ],
+    "base": "ce744d78-f7d9-4997-8666-fd10d77eccb6",
+    "datasheet": [
+        false,
+        "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM32ER71E226ME15-01.pdf"
+    ],
+    "description": [
+        false,
+        "Chip Monolithic Ceramic Capacitor for General"
+    ],
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "parametric": {},
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "ebe0b814-73eb-4a7c-bede-0ba0b144c4da",
+    "value": [
+        true,
+        "base 1210 capacitor"
+    ],
+    "version": 1
+}

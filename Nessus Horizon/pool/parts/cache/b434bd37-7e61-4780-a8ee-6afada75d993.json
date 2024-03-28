@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RMCF0603FT10K0"
+    ],
+    "base": "a578a247-033e-459b-ab99-1f16e93bf978",
+    "datasheet": [
+        true,
+        "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+    ],
+    "description": [
+        true,
+        "General Purpose Thick Film Standard Power Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Stackpole"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "override_prefix": "inherit",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "10000"
+    },
+    "prefix": "",
+    "tags": [],
+    "type": "part",
+    "uuid": "b434bd37-7e61-4780-a8ee-6afada75d993",
+    "value": [
+        false,
+        "10 kΩ"
+    ],
+    "version": 2
+}

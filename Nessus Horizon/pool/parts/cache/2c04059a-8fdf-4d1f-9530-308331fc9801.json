@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "TDA01H0SB1R (Copy)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ckswitches.com/media/1328/tda.pdf"
+    ],
+    "description": [
+        false,
+        "TDA Ultra-miniature surface mount half-pitch DIP switch"
+    ],
+    "entity": "4a3ed432-3b5e-497c-9335-2033e9586682",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "C&K"
+    ],
+    "model": "8976fd8c-ae40-4b0a-8aeb-74aa9a946293",
+    "package": "ad6ad933-3fed-4c97-98a6-7d652cdf48e4",
+    "pad_map": {
+        "b762bc48-c5e1-4b45-9c24-0e5b607faf95": {
+            "gate": "c4389f33-021d-4ed3-a1f5-c9da386d0489",
+            "pin": "b3567d95-bff9-4473-ba25-2ba73c2dc90c"
+        },
+        "ef79c3e0-dbd9-4064-883f-dd5c04885251": {
+            "gate": "c4389f33-021d-4ed3-a1f5-c9da386d0489",
+            "pin": "3df2bc26-ee22-4f27-8ca9-403a9568c49d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "2c04059a-8fdf-4d1f-9530-308331fc9801",
+    "value": [
+        false,
+        ""
+    ]
+}

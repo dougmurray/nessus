@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "GRM32ER71E226ME15K"
+    ],
+    "base": "ebe0b814-73eb-4a7c-bede-0ba0b144c4da",
+    "datasheet": [
+        true,
+        "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM32ER71E226ME15-01.pdf"
+    ],
+    "description": [
+        true,
+        "Chip Monolithic Ceramic Capacitor for General"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0",
+        "type": "X7R",
+        "value": "2.2e-05",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "8ccbf5cf-2928-4bdb-b5c9-9cc0dbd0d10c",
+    "value": [
+        false,
+        "22.00 µF"
+    ]
+}

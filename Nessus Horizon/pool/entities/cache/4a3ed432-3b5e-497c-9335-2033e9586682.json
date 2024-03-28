@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "c4389f33-021d-4ed3-a1f5-c9da386d0489": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6566e212-7797-466b-aab1-53a5b3e37dc9"
+        }
+    },
+    "manufacturer": "",
+    "name": "simple switch (Copy)",
+    "prefix": "S",
+    "tags": [
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "4a3ed432-3b5e-497c-9335-2033e9586682"
+}

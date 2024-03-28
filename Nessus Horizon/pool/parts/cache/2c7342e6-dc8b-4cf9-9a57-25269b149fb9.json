@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "3590P-1-103L (Copy)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/Product-Datasheets/3590.pdf"
+    ],
+    "description": [
+        false,
+        "Bourns 3590 Precision Potentiometer"
+    ],
+    "entity": "3c079de8-b289-4756-b999-13e96ca302a4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "47c2483e-c9be-42c8-9615-4ec178fd7d23",
+    "package": "a1554a34-c929-48c7-a91a-d54a0142e5a7",
+    "pad_map": {
+        "1a68c264-4f54-4c8c-9d09-596c91f5efd9": {
+            "gate": "08facd8d-9fba-4897-8b71-c8d1c8faac70",
+            "pin": "1eaa7e7f-b9b6-4538-b736-3732435e3a71"
+        },
+        "1c500a48-68ee-4ffb-8946-c413eae06314": {
+            "gate": "08facd8d-9fba-4897-8b71-c8d1c8faac70",
+            "pin": "bf8a882a-173d-4077-9201-6bb24a454768"
+        },
+        "ac6d7e9b-81b9-4705-8832-85924566ac92": {
+            "gate": "08facd8d-9fba-4897-8b71-c8d1c8faac70",
+            "pin": "2ef079b9-8122-4cdc-badd-d141e58f56d0"
+        }
+    },
+    "parametric": {
+        "pmax": "2",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "10000"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "2c7342e6-dc8b-4cf9-9a57-25269b149fb9",
+    "value": [
+        false,
+        "10 kΩ"
+    ]
+}
